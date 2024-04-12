@@ -8,7 +8,7 @@ function Menu() {
   );
   return (
     <div className="Menu">
-      <label>Enter Your Name:</label>
+      <label>Enter Your Good Name:</label>
       <input
         type="text"
         placeholder="Ex. Bijendra Mishra"
